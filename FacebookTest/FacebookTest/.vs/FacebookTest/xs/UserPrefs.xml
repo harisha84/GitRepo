@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B4410081-D729-44C4-8799-BCC01FC908DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/LoginPageTest.cs">
+    <Files>
+      <File FileName="Base/BaseTest.cs" Line="13" Column="44" />
+      <File FileName="Tests/LoginPageTest.cs" Line="49" Column="6" />
+      <File FileName="Utilities/CustomEventFiringWebDriver.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FacebookTest" expanded="True">
+            <Node name="FacebookTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Base" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="LoginPageTest.cs" selected="True" />
+              </Node>
+              <Node name="Utilities" expanded="True" />
+              <Node name="Xml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FacebookTest" expanded="True">
+            <Node name="FacebookTest" expanded="True">
+              <Node name="FacebookTest.Tests" expanded="True">
+                <Node name="LoginPageTest" expanded="True">
+                  <Node name="LoginToFacebook(FacebookTest.TestData.LoginPageData)" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FacebookTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

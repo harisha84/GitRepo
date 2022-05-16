@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F8872415-40DF-4EED-B22B-BE436173A12B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookTest/TestDataXml/LoginData.xml">
+    <Files>
+      <File FileName="FacebookTest/Base/BaseTest.cs" Line="32" Column="15" />
+      <File FileName="FacebookTest/Tests/LoginPageTest.cs" />
+      <File FileName="FacebookTest/Utilities/TestUtils.cs" />
+      <File FileName="FacebookTest/Utilities/CustomEventFiringWebDriver.cs" />
+      <File FileName="FacebookTest/obj/Debug/net5.0/FacebookTest.AssemblyInfo.cs" />
+      <File FileName="FacebookTest/TestDataObjects/LoginPageData.cs" />
+      <File FileName="FacebookTest/TestDataXml/LoginData.xml" Line="1" Column="1" />
+      <File FileName="FacebookTest/app.config" />
+      <File FileName="FacebookTest/PageObjects/LoginPage.cs" />
+      <File FileName="FacebookTest/Utilities/Reports.cs" />
+      <File FileName="FacebookTest/Utilities/Properties.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FacebookTest" expanded="True" selected="True">
+            <Node name="FacebookTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Base" expanded="True" />
+              <Node name="PageObjects" expanded="True" />
+              <Node name="TestDataObjects" expanded="True" />
+              <Node name="TestDataXml" expanded="True" />
+              <Node name="Tests" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FacebookTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FacebookTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
